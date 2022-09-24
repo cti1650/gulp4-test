@@ -7,10 +7,12 @@
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-sass": "^5.1.0",
+    "gulp-zip": "^5.1.0",
     "sass": "^1.55.0"
   },
   "scripts": {
     "default": "npx gulp",
-    "watch": "npx gulp"
+    "watch": "npx gulp",
+    "build": "npx gulp build"
   }
 }

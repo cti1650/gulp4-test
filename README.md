@@ -13,6 +13,11 @@
     yarn add -D sass gulp-sass
     ```
 
+  - gulp-zip プラグイン  
+    ```
+    yarn add -D gulp-zip
+    ```
+
 ## 実行方法
 
 ```
@@ -23,6 +28,9 @@ npx gulp
 - [gulp.js](https://gulpjs.com/)  
 - [絶対つまずかないGulp 4入門(2022年版) - インストールとSassを使うまでの手順 - ICS MEDIA](https://ics.media/entry/3290/)  
 - [【Sass(SCSS)】変数($)、@mixinを使ってモジュールを超えた共通スタイルを設定する - クモのようにコツコツと](https://www.i-ryo.com/entry/2020/05/30/095648)  
+- [gulp-zip - npm](https://www.npmjs.com/package/gulp-zip)  
+- [gulp-zipでディレクトリ構成を保ったまま圧縮する - Qiita](https://qiita.com/iwata-n/items/c955625bf801f2059026)  
+
 
 
 ## 関係サイト  
